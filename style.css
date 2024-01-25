@@ -4,3 +4,23 @@ body{
 h1{
     font-size: 50px;
 }
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: %;
+}
+#profile1{
+    margin-left: 12%;
+}
+.half-width img{
+    width: 100%;
+
+}
+section{
+    margin-top: 60px;
+    height: 5%;
+}
