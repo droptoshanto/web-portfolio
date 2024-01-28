@@ -47,6 +47,7 @@ section{
     background-image: url("/images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+    height: 500px;
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
