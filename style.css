@@ -23,7 +23,8 @@ p{
 
 
 .half-width img{
-    width: 100%;
+    width: 80%;
+    margin-left: 10px;
 
 }
 .hireme{
@@ -44,7 +45,7 @@ section{
     font-weight: 700;
 }
 .dreamarea{
-    background-image: url("/images/dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
     height: 500px;
